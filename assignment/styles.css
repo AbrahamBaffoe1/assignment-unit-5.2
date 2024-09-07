@@ -6,12 +6,13 @@ body {
   
   .header-class {
     background-color: #2a2727;
-    color: #fff;
+    color: #cdc4c4;
     text-align: center;
     padding: 1em;
   }
   
   .main-class {
     background-color: #f7f7f7;
-    padding: 1em;
+    padding: 1em; 
+    
   }
